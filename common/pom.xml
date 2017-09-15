@@ -17,14 +17,9 @@
         <config.version>1.3.0</config.version>
     </properties>
 
-    <artifactId>core</artifactId>
+    <artifactId>common</artifactId>
 
     <dependencies>
-        <dependency>
-            <groupId>solutions.dataguru.spark.scala</groupId>
-            <artifactId>common</artifactId>
-            <version>1.0.0</version>
-        </dependency>
         <dependency>
             <groupId>org.scala-lang</groupId>
             <artifactId>scala-library</artifactId>
